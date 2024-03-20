@@ -6,5 +6,5 @@
   "UniqueID": "MabelSyrup.ResetTerrainFeatures",
   "EntryDll": "ResetTerrainFeatures_NET6.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": ["Nexus:9350"]
+  "UpdateKeys": ["Nexus:20665"]
 }
