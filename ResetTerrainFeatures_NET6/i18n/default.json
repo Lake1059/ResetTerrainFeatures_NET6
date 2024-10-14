@@ -1,5 +1,5 @@
 ﻿{
-	"RESETALLLOCATIONS": "Reset All Locations!",	
+	"ResetAllLocations": "Reset All Locations!",	
 	"SelectObjectChanged": "Select object to change:",
 	"Bush": "Bush",
 	"Tree": "Tree",
@@ -20,4 +20,6 @@
 	"Reset": "Reset",
 	"Clear": "Clear",
 	"Generate": "Generate",
+	"GMCM_OpenMenu": "Open Menu",
+	"GMCM_ProtectFarm": "Protect Farm",
 }

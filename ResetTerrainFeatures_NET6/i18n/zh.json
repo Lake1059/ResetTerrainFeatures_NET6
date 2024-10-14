@@ -1,13 +1,13 @@
 ﻿{
-	"RESETALLLOCATIONS": "重置所有地图！",
+	"ResetAllLocations": "重置所有地图！",
 	"SelectObjectChanged": "选择要更改的对象：",
 	"Bush": "灌木丛",
 	"Tree": "树木",
 	"Weed": "杂草",
-	"Grass": "草地",
+	"Grass": "草料",
 	"Twig": "树枝",
 	"Rock": "石块",
-	"Forage": "草料",
+	"Forage": "觅食",
 	"Stump": "树桩",
 	"Log": "原木",
 	"Boulder": "巨石",
@@ -20,4 +20,6 @@
 	"Reset": "重置",
 	"Clear": "清除",
 	"Generate": "生成",
+	"GMCM_OpenMenu": "打开菜单",
+	"GMCM_ProtectFarm": "保护农场",
 }

@@ -1,7 +1,7 @@
 ﻿{
   "Name": "Reset Terrain Features",
   "Author": "MabelSyrup",
-  "Version": "1.0.3-unofficial.2-Lake1059",
+  "Version": "1.0.3-unofficial.3-Lake1059",
   "Description": "Allows you to regenerate terrain features from the map - useful for when you change a map during a game",
   "UniqueID": "MabelSyrup.ResetTerrainFeatures",
   "EntryDll": "ResetTerrainFeatures_NET6.dll",

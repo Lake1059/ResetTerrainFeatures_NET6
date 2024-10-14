@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace ResetTerrainFeatures_NET6 
 {
-    public static class OBJI18n   // static 不是必须 
+    [System.Diagnostics.CodeAnalysis.SuppressMessage("Usage", "CA2211:非常量字段应当不可见", Justification = "<挂起>")] 
+    public static class i18n 
     {
-        public static string RESETALLLOCATIONS;
+        public static string ResetAllLocations;
+        public static string ResetAllLocationsWithOutFarm;
         public static string SelectObjectChanged;
         public static string Bush;
         public static string Tree;
@@ -29,5 +31,7 @@ namespace ResetTerrainFeatures_NET6
         public static string Reset;
         public static string Clear;
         public static string Generate;
+        public static string GMCM_OpenMenu;
+        public static string GMCM_ProtectFarm;
     }
 }
