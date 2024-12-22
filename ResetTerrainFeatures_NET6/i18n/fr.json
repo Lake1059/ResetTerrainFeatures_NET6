@@ -1,5 +1,5 @@
 {
-	"RESETALLLOCATIONS": "Remettre à zéro tous les lieux !",	
+	"ResetAllLocations": "Réinitialiser tous les lieux !",	
 	"SelectObjectChanged": "Sélectionner les objets à changer",
 	"Bush": "Buissons",
 	"Tree": "Arbres",
@@ -20,4 +20,6 @@
 	"Reset": "Reset",
 	"Clear": "Nettoyer",
 	"Generate": "Générer",
+	"GMCM_OpenMenu": "Ouvrir le menu",
+	"GMCM_ProtectFarm": "Protéger la ferme",
 }
